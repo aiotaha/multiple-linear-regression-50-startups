@@ -107,7 +107,7 @@ Model Evaluation
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/aiotaha/your-repository.git
 ```
 
 Install dependencies
