@@ -2,16 +2,6 @@
 Predicting startup profits with Multiple Linear Regression in Python
 
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</p>
-
 ---
 
 ## 📖 Overview
@@ -107,7 +97,7 @@ Model Evaluation
 Clone the repository
 
 ```bash
-git clone https://github.com/aiotaha/your-repository.git
+git clone https://github.com/aiotaha/multiple-linear-regression-50-startups.git
 ```
 
 Install dependencies
