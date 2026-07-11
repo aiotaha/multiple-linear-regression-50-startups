@@ -39,6 +39,13 @@ It serves as a beginner-friendly yet practical example for understanding linear 
 
 ---
 
+## Evaluation Metrics
+
+The notebook evaluates the model using:
+
+- R² Score
+---
+
 ## 📂 Repository Structure
 
 ```text
